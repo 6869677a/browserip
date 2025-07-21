@@ -1,11 +1,11 @@
 ==============================================
-BrowserRip - Edge \& Chrome Pass Extractor
+BrowserRip - Edge & Chrome Pass Extractor
  -x- w0rmer -x- 
 ==============================================
 
 
 
-\# Browserip
+# Browserip
 
 
 
@@ -13,7 +13,7 @@ Extract saved credentials from Chrome and Edge profiles (Windows only).
 
 
 
-\## Usage
+## Usage
 
 
 
